@@ -1,2 +1,2 @@
 # My-Project-FinalEnsiref
-Mon Project Final
+Logiciel de gestion et réservation de matériel informatique
